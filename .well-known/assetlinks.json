@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.vittomahdiar10_afk.twa",
+        "sha256_cert_fingerprints": ["02:D6:7D:92:02:D1:BF:78:14:85:B3:C2:9A:0B:19:7A:AA:FB:FE:51:0A:E2:95:60:86:4D:CA:1C:28:8A:EE:72"]
+      }
+    }]
